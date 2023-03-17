@@ -1,0 +1,5 @@
+command /discord:
+	description: Gives you the link to the discord server.
+	executable by: players
+	trigger:
+		message "<link:linkhere> &d&nClick to join our discord!"
